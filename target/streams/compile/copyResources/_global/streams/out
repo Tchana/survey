@@ -1,3 +1,3 @@
-[debug] Copy resource mappings: 
-[debug] 	(C:\Users\valdo\Downloads\Compressed\survey\src\main\resources\age_graph.PNG,C:\Users\valdo\Downloads\Compressed\survey\target\scala-2.13\classes\age_graph.PNG)
-[debug] 	(C:\Users\valdo\Downloads\Compressed\survey\src\main\resources\surveyfile.xlsx,C:\Users\valdo\Downloads\Compressed\survey\target\scala-2.13\classes\surveyfile.xlsx)
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\valdo\Downloads\Compressed\survey\src\main\resources\age_graph.PNG,C:\Users\valdo\Downloads\Compressed\survey\target\scala-2.13\classes\age_graph.PNG)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\valdo\Downloads\Compressed\survey\src\main\resources\surveyfile.xlsx,C:\Users\valdo\Downloads\Compressed\survey\target\scala-2.13\classes\surveyfile.xlsx)[0m

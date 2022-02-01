@@ -52,7 +52,7 @@ class GeneratePDF(val document: PDDocument) {
     contentStream.newLine
     contentStream.showText("Standard Deviation: " + standardDeviation)
 
-    contentStream.endText()
+    contentStream.endText() 
     println("Content added")
     contentStream.close()
     document.save("C:/Users/valdo/Desktop/my_doc.pdf")
